@@ -1,0 +1,40 @@
+// Place all the styles related to the Restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.btn-custom {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#167FFB, #0F60C4);
+  transition: background 0.3s ease;
+  border: 1px solid #0F60C4;
+}
+
+.btn-custom:hover {
+  background: linear-gradient(#147EFF, #0F67DA);
+  color: white;
+}
+
+.lead-address {
+  font-family: 'PT Sans', ;
+  font-size: 20px;
+}
+
+.lead-name {
+  font-family: 'PT Sans', ;
+  font-family: 'Lora', ;
+  font-size: 30px;
+}
+
+.head-title {
+  font-family: 'Simonetta', ;
+  color: #55ADEE;
+}
+
+.container {
+  text-align: center;
+
+}
